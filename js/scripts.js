@@ -2,7 +2,6 @@ function trackMaster () {
 var a= parseInt(document.getElementById('a').value);
 var b= parseInt(document.getElementById('b').value);
 var c= parseInt(document.getElementById('c').value);
-
 var triangle=["Equilateral", "Isosceles", "Scalene", "Wrong value(s). Please retry!"];
 if(a===b && b===c && a===c){
    alert(triangle[0]);
