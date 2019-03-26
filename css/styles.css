@@ -5,6 +5,7 @@
 
 body{
   background-image: url(http://placehold.it/100x100);
+  background-color: black;
   background-repeat: repeat-x;
   animation: animatedBackground 5s linear alternate infinite;
   overflow: hidden;
