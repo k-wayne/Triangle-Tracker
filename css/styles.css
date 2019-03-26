@@ -24,3 +24,9 @@ em{
 .landing{
   float: left;
 }
+a{
+  color: yellow;
+}
+p {
+  float: right;
+}
