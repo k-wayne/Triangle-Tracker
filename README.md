@@ -20,7 +20,7 @@ Simple project to recognize different types of triangles from values keyed in by
 *CSS
 *JAVASCRIPT
 ## Support and constant updates to the site and program
-{For any queries get through to me by me email address at nivlapeter@gmail.com}
+{contact as through wkudoi@gmail.com}
 ### License
 Licensed under the [MIT License](LICENSE)
 Copyright (c) {2019} 
