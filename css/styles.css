@@ -15,3 +15,12 @@ h1{
   font-style: italic;
   color: red;
 }
+.entry{
+  align-content: center;
+}
+em{
+  color: red;
+}
+.landing{
+  float: left;
+}
